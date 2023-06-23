@@ -27,7 +27,7 @@ Run `chase2023_simdata.py`.  The script is designed to be run in ipython.
 
 ## Other resources
 
-- [WashU news itemp](https://source.wustl.edu/2023/06/bias-from-pulse-oximeters-remains-even-if-corrected-by-race-study-finds/)
+- [WashU news item](https://source.wustl.edu/2023/06/bias-from-pulse-oximeters-remains-even-if-corrected-by-race-study-finds/)
 - [Talk video](https://youtu.be/fDshVVgHPkw)
 
 ## References
