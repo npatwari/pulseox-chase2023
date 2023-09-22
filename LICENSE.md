@@ -1,33 +1,152 @@
 [pulseox-chase2023] Copyright (2023) (Neal Patwari)(“Licensor”)
 
-Hippocratic License Version Number: 2.1.
+**THE ANTIRACIST ETHICAL SOURCE LICENSE (ATR)**
 
-Purpose. The purpose of this License is for the Licensor named above to permit the Licensee (as defined below) broad permission, if consistent with Human Rights Laws and Human Rights Principles (as each is defined below), to use and work with the Software (as defined below) within the full scope of Licensor’s copyright and patent rights, if any, in the Software, while ensuring attribution and protecting the Licensor from liability.
+**Version 0.6, Juneteenth 2022**
 
-Permission and Conditions. The Licensor grants permission by this license (“License”), free of charge, to the extent of Licensor’s rights under applicable copyright and patent law, to any person or entity (the “Licensee”) obtaining a copy of this software and associated documentation files (the “Software”), to do everything with the Software that would otherwise infringe (i) the Licensor’s copyright in the Software or (ii) any patent claims to the Software that the Licensor can license or becomes able to license, subject to all of the following terms and conditions:
+**TERMS AND CONDITIONS**
 
-* Acceptance. This License is automatically offered to every person and entity subject to its terms and conditions. Licensee accepts this License and agrees to its terms and conditions by taking any action with the Software that, absent this License, would infringe any intellectual property right held by Licensor.
+TERMS AND CONDITIONS FOR USE, COPY, MODIFICATION, PREPARATION OF DERIVATIVE WORK, REPRODUCTION, AND DISTRIBUTION:
 
-* Notice. Licensee must ensure that everyone who gets a copy of any part of this Software from Licensee, with or without changes, also receives the License and the above copyright notice (and if included by the Licensor, patent, trademark and attribution notice). Licensee must cause any modified versions of the Software to carry prominent notices stating that Licensee changed the Software. For clarity, although Licensee is free to create modifications of the Software and distribute only the modified portion created by Licensee with additional or different terms, the portion of the Software not modified must be distributed pursuant to this License. If anyone notifies Licensee in writing that Licensee has not complied with this Notice section, Licensee can keep this License by taking all practical steps to comply within 30 days after the notice. If Licensee does not do so, Licensee’s License (and all rights licensed hereunder) shall end immediately.
+**[1.](#1) DEFINITIONS:**
 
-* Compliance with Human Rights Principles and Human Rights Laws.
+_This section defines certain terms used throughout this license agreement._
 
-    1. Human Rights Principles.
+[1.1.](#1.1) “License” means the terms and conditions, as stated herein, for use, copy, modification, preparation of derivative work, reproduction, and distribution of Software (as defined below).
 
-        (a) Licensee is advised to consult the articles of the United Nations Universal Declaration of Human Rights and the United Nations Global Compact that define recognized principles of international human rights (the “Human Rights Principles”). Licensee shall use the Software in a manner consistent with Human Rights Principles.
+[1.2.](#1.2) “Licensor” means the copyright and/or patent owner or entity authorized by the copyright and/or patent owner that is granting the License.
 
-        (b) Unless the Licensor and Licensee agree otherwise, any dispute, controversy, or claim arising out of or relating to (i) Section 1(a) regarding Human Rights Principles, including the breach of Section 1(a), termination of this License for breach of the Human Rights Principles, or invalidity of Section 1(a) or (ii) a determination of whether any Law is consistent or in conflict with Human Rights Principles pursuant to Section 2, below, shall be settled by arbitration in accordance with the Hague Rules on Business and Human Rights Arbitration (the “Rules”); provided, however, that Licensee may elect not to participate in such arbitration, in which event this License (and all rights licensed hereunder) shall end immediately. The number of arbitrators shall be one unless the Rules require otherwise.
+[1.3.](#1.3) “Licensee” means the individual or entity exercising permissions granted by this License, including the use, copy, modification, preparation of derivative work, reproduction, and distribution of Software (as defined below).
 
-        Unless both the Licensor and Licensee agree to the contrary: (1) All documents and information concerning the arbitration shall be public and may be disclosed by any party; (2) The repository referred to under Article 43 of the Rules shall make available to the public in a timely manner all documents concerning the arbitration which are communicated to it, including all submissions of the parties, all evidence admitted into the record of the proceedings, all transcripts or other recordings of hearings and all orders, decisions and awards of the arbitral tribunal, subject only to the arbitral tribunal's powers to take such measures as may be necessary to safeguard the integrity of the arbitral process pursuant to Articles 18, 33, 41 and 42 of the Rules; and (3) Article 26(6) of the Rules shall not apply.
+[1.4.](#1.4) “Software” means any copyrighted work, including but not limited to software code, authored by Licensor and made available under this License.
 
-    2. Human Rights Laws. The Software shall not be used by any person or entity for any systems, activities, or other uses that violate any Human Rights Laws.  “Human Rights Laws” means any applicable laws, regulations, or rules (collectively, “Laws”) that protect human, civil, labor, privacy, political, environmental, security, economic, due process, or similar rights; provided, however, that such Laws are consistent and not in conflict with Human Rights Principles (a dispute over the consistency or a conflict between Laws and Human Rights Principles shall be determined by arbitration as stated above).  Where the Human Rights Laws of more than one jurisdiction are applicable or in conflict with respect to the use of the Software, the Human Rights Laws that are most protective of the individuals or groups harmed shall apply.
+[1.5.](#1.5) “Supply Chain” means the sequence of processes involved in the production and/or distribution of a commodity, good, or service offered by the Licensee.
 
-    3. Indemnity. Licensee shall hold harmless and indemnify Licensor (and any other contributor) against all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including Licensor’s reasonable attorneys’ fees, arising out of or relating to Licensee’s use of the Software in violation of Human Rights Laws or Human Rights Principles.
+[1.6.](#1.6) “Supply Chain Impacted Party” or “Supply Chain Impacted Parties” means any person(s) directly impacted by any of Licensee’s Supply Chain, including the practices of all persons or entities within the Supply Chain prior to a good or service reaching the Licensee.
 
-* Failure to Comply. Any failure of Licensee to act according to the terms and conditions of this License is both a breach of the License and an infringement of the intellectual property rights of the Licensor (subject to exceptions under Laws, e.g., fair use). In the event of a breach or infringement, the terms and conditions of this License may be enforced by Licensor under the Laws of any jurisdiction to which Licensee is subject. Licensee also agrees that the Licensor may enforce the terms and conditions of this License against Licensee through specific performance (or similar remedy under Laws) to the extent permitted by Laws. For clarity, except in the event of a breach of this License, infringement, or as otherwise stated in this License, Licensor may not terminate this License with Licensee.
+[1.7.](#1.7) “Duty of Care” is defined by its use in tort law, delict law, and/or similar bodies of law closely related to tort and/or delict law, including without limitation, a requirement to act with the watchfulness, attention, caution, and prudence that a reasonable person in the same or similar circumstances would use towards any Supply Chain Impacted Party.
 
-* Enforceability and Interpretation. If any term or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, then such invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction; provided, however, subject to a court modification pursuant to the immediately following sentence, if any term or provision of this License pertaining to Human Rights Laws or Human Rights Principles is deemed invalid, illegal, or unenforceable against Licensee by a court of competent jurisdiction, all rights in the Software granted to Licensee shall be deemed null and void as between Licensor and Licensee. Upon a determination that any term or provision is invalid, illegal, or unenforceable, to the extent permitted by Laws, the court may modify this License to affect the original purpose that the Software be used in compliance with Human Rights Principles and Human Rights Laws as closely as possible. The language in this License shall be interpreted as to its fair meaning and not strictly for or against any party.
+[1.8.](#1.8) “Worker” is defined to include any and all permanent, temporary, and agency workers, as well as piece-rate, salaried, hourly paid, legal young (minors), part-time, night, and migrant workers.
 
-* Disclaimer. TO THE FULL EXTENT ALLOWED BY LAW, THIS SOFTWARE COMES “AS IS,” WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, AND LICENSOR AND ANY OTHER CONTRIBUTOR SHALL NOT BE LIABLE TO ANYONE FOR ANY DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THIS LICENSE, UNDER ANY KIND OF LEGAL CLAIM.
+[1.9.](#1.9) “Phenotype” is defined as the entire physical, biochemical, and physiological makeup of an individual as determined both genetically or environmentally and any one or any group of such traits.
 
-This Hippocratic License is an Ethical Source license (https://ethicalsource.dev) and is offered for use by licensors and licensees at their own risk, on an “AS IS” basis, and with no warranties express or implied, to the maximum extent permitted by Laws.
+[1.10.](#1.10) “Genotype” is defined as the overall genetic data defining the expression of characteristics of a living organism in conjunction with its environment.
+
+[1.11.](#1.11) “State-sanctioned violence” is defined as all forms fear or intimidation of violence or physical harm produced, promoted, and/or institutionalized by the state to the detriment of a people, their families and communities;
+
+**[2.](#2) INTELLECTUAL PROPERTY GRANTS:**
+
+_This section identifies intellectual property rights granted to a Licensee_.
+
+[2.1.](#2.1) _Grant of Copyright License_: Subject to the terms and conditions of this License, Licensor hereby grants to Licensee a worldwide, non-exclusive, no-charge, royalty-free copyright license to use, copy, modify, prepare derivative work, reproduce, or distribute the Software, Licensor authored modified software, or other work derived from the Software.
+
+[2.2.](#2.2) _Grant of Patent License_: Subject to the terms and conditions of this License, Licensor hereby grants Licensee a worldwide, non-exclusive, no-charge, royalty-free patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer Software.
+
+**[3.](#3) ETHICAL STANDARDS:**
+
+_This section lists conditions the Licensee must comply with in order to have rights under this License._
+
+The rights granted to the Licensee by this License are expressly made subject to the Licensee’s ongoing compliance with the following conditions:
+
+* [3.1.](#3.1)  The Licensee SHALL NOT, whether directly or indirectly, through agents or assigns:  
+   * [3.1.1.](#3.1.1)  Discriminate on the basis of sex, gender, sexual orientation, race, ethnicity, nationality, pheontype, genotype, religion, caste, age, medical disability or impairment, and/or any other like circumstances;
+   * [3.1.2.](#3.1.2)  Infringe upon any person's right to life or security of person, engage in extrajudicial killings, or commit murder, without lawful cause; 
+   * [3.1.3.](#3.1.3)  Hold any person in slavery, servitude, or forced labor;
+   * [3.1.4.](#3.1.4)  Contribute to the institution of slavery, slave trading, forced labor, or unlawful child labor;  
+   * [3.1.5.](#3.1.5)  Torture or subject any person to cruel, inhumane, or degrading treatment or punishment;  
+   * [3.1.6.](#3.1.6)  Prevent any person from exercising his/her/their right to seek an effective remedy by a competent court or national tribunal (including domestic judicial systems, international courts, arbitration bodies, and other adjudicating bodies) for actions violating the fundamental rights granted to him/her/them by applicable constitutions, applicable laws, or by this License;  
+   * [3.1.7.](#3.1.7)  Interfere with individuals’ ability to vote/register to vote in both local and national elections; 
+   * [3.1.8.](#3.1.8)  Provide voter data to election officials to determine voter eligibility without providing notice to the voter.
+   * [3.1.9.](#3.1.9)  Use Intimidation or disinformation aimed to depress the vote of people marginalized by race, ethnicity, nationality, caste, phenotype or genotype;
+   * [3.1.10.](#3.1.10)  Subject any person to arbitrary arrest, detention, exile or deprivation of liberty;
+     * [3.1.10.1.](#3.1.10.1)  Subject any juvenile person to undue/excessive legal repercussions or incarceration;
+     * [3.1.10.2.](#3.1.10.2)  Submit any data to law enforcement, unless required by law or court order;
+   * [3.1.11.](#3.1.11)  Be a government agency, a multinational corporation, a medical institution/corporation, or a representative, agent, affiliate, successor, attorney, or assign of a government agency, multinational corporation, or medical institution/corporation which participates in mass surveillance programs of individuals or organizations on the basis of race, ethnicity, nationality, caste, phenotype or genotype or the organizations that support , except where the medical institution/corporation collects relevant personal details for the sole and express purpose of providing quality healthcare to a patient;
+   * [3.1.12.](#3.1.12)  Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that provides good or services to, or otherwise enters into any commercial contracts with, any local, state, or federal law enforcement agency;
+   * [3.1.13.](#3.1.13)  Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity which conducts military activities that discriminates against individuals on the basis of on the basis of race, ethnicity, caste, nationality, phenotype or genotype or perpetuates state-sanctioned violence;
+     * [3.1.13.1.](#3.1.11.2)  Be party to any commercial transactions with the any military that perpetuates state-sanctioned violence;
+   * [3.1.14.](#3.1.12)  Subject any person to arbitrary interference with a person's privacy, family, home, or correspondence without the express written consent by the person;
+     * [3.1.14.1.](#3.1.14.1)  Facilitate discrimination through removal from or prevent meaningful access to shelter based on arbitrary, inconsistent, or unclear requirements;
+     * [3.1.14.2.](#3.1.14.2)  Impose fines or fees, inadequate service, or otherwise punitive measures in housing based on discriminatory practices or policies;
+   * [3.1.15.](#3.1.15)  Arbitrarily deprive any person of his/her/their property;
+   * [3.1.16.](#3.1.16)  Forcibly remove indigenous peoples from their lands or territories or take any action with the aim or effect of dispossessing indigenous peoples from their lands, territories, or resources, including without limitation the intellectual property or traditional knowledge of indigenous peoples, without the free, prior, and informed consent of indigenous peoples concerned;
+   * [3.1.17.](#3.1.15) Perpetuate inequality in healthcare services for people on the basis of race, ethnicity, nationality, caste, phenotype or genotype, including, but not limited to:  
+     * [3.1.17.1.](#3.1.17.1)  Claiming medical devices, treatments, or procedures, which are untested or tested and known to be harmful,  as sufficient and exhaustive medical care without express written consent by the patient, or someone with authority to consent on behalf of the patient, acknowledging the unknown or harmful properties of the medical device, treatment, or procedure, and authorizing its use;
+     * [3.1.17.2.](#3.1.17.2)  Using race-adjusted or “race-norming” formulas that put patients at undue risk or result in insufficient standard of care;
+     * [3.1.17.3.](#3.1.17.3)   Profiling patients solely on the basis of race, ethnicity, nationality, caste, phenotype or genotype, or in any other manner which would lead to care which is either negligent or  insufficient to meet the standard of care;
+   * [3.1.18.](#3.1.18)  Be an individual or entity, or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that engages in fossil fuel or mineral exploration, extraction, development, or sale especially as it harms people on the basis of race, ethnicity, nationality, caste, phenotype or genotype;
+   * [3.1.19.](#3.1.19)  Commit ecocide in areas belonging to or primarily populated by peoples who would be classified as a minority on the basis of race, ethnicity, caste, nationality, phenotype, or genotype:
+     * [3.1.19.1.](#3.1.19.1)  For the purpose of this section, "ecocide" means unlawful or wanton acts committed with knowledge that there is a substantial likelihood of severe and either widespread or long-term damage to the environment being caused by those acts;
+     * [3.1.19.2.](#3.1.19.2)  For the purpose of further defining ecocide and the terms contained in the previous paragraph:
+       * [3.1.19.2.1.](#3.1.19.2.1)  "Wanton" means with reckless disregard for damage which would be clearly excessive in relation to the social and economic benefits anticipated;
+       * [3.1.19.2.2.](#3.1.19.2.2)  Severe" means damage which involves very serious adverse changes, disruption, or harm to any element of the environment, including grave impacts on human life or natural, cultural, or economic resources;
+       * [3.1.19.2.3.](#3.1.19.2.3)  "Widespread" means damage which extends beyond a limited geographic area, crosses state boundaries, or is suffered by an entire ecosystem or species or a large number of human beings;
+       * [3.1.19.2.4.](#3.1.19.2.4)  "Long-term" means damage which is irreversible or which cannot be redressed through natural recovery within a reasonable period of time; and
+       * [3.1.19.2.5.](#3.1.19.2.5)  "Environment" means the earth, its biosphere, cryosphere, lithosphere, hydrosphere, and atmosphere, as well as outer space
+   * [3.1.20.](#3.1.20)  Harm the environment in a manner inconsistent with local, state, national, or international law;
+   * [3.1.21.](#3.1.21)  Be an individual or entity:
+     * [3.1.21.1.](#3.1.21.1)  which U.S. Customs and Border Protection (CBP) has currently issued a Withhold Release Order (WRO) or finding against based on reasonable suspicion of forced labor; or
+     * [3.1.21.2.](#3.1.21.2)  that is a representative, agent, affiliate, successor, attorney, or assign of an individual or entity that does business with an individual or entity which currently has a WRO or finding from CBP issued against it based on reasonable suspicion of forced labor;
+   * [3.1.22.](#3.1.22)  Be an individual or entity, or a or a representative, agent, affiliate, successor, attorney, or assign of an individual or entity, that broadcasts messages promoting killing, torture, or other forms of extreme violence;
+   * [3.1.23.](#3.1.23)  Interfere with Workers' free exercise of the right to organize and associate.
+* [3.2.](#3.2)  The Licensee SHALL:
+  * [3.2.1.](#3.2.1)  Only use social auditing mechanisms that adhere to Worker-Driven Social Responsibility Network's Statement of Principles (https://wsr-network.org/what-is-wsr/statement-of-principles/) over traditional social auditing mechanisms, to the extent the Licensee uses any social auditing mechanisms at all;
+  * [3.2.2.](#3.2.2)  Provide equal pay for equal work where the performance of such work requires equal skill, effort, and responsibility, and which are performed under similar working conditions without descrimination on the basis of race, ethnicity, nationality, caste, phenotype or genotype, except where such payment is made pursuant to:
+    * [3.2.2.1.](#3.2.2.1)  A seniority system;
+    * [3.2.2.2.](#3.2.2.2)  A merit system;
+    * [3.2.2.3.](#3.2.2.3)  A system which measures earnings by quantity or quality of production; or
+    * [3.2.2.4.](#3.2.2.4)  A differential based on any other factor other than sex, gender, sexual orientation, race, ethnicity, nationality, phenotype, genotype, religion, caste, age, medical disability or impairment, and/or any other like circumstances; and
+    * [3.2.2.5.](3.2.2.5)  Allow for reasonable limitation of working hours and periodic holidays with pay.
+  * [3.2.3.](#3.2.3)  Allow for reasonable limitation of working hours and periodic holidays with pay.  
+  
+**[4.](#4) SUPPLY CHAIN IMPACTED PARTIES:**
+
+_This section identifies additional individuals or entities that a Licensee could harm as a result of violating the Ethical Standards section, the condition that the Licensee must voluntarily accept a Duty of Care for those individuals or entities, and the right to a private right of action that those individuals or entities possess as a result of violations of the Ethical Standards section._
+
+[4.1.](#4.1)  In addition to the above Ethical Standards, Licensee voluntarily accepts a Duty of Care for Supply Chain Impacted Parties of this License, including individuals and communities impacted by violations of the Ethical Standards. The Duty of Care is breached when a provision within the Ethical Standards section is violated by a Licensee, one of its successors or assigns, or by an individual or entity that exists within the Supply Chain prior to a good or service reaching the Licensee.
+
+[4.2.](#4.2)  Breaches of the Duty of Care, as stated within this section, shall create a private right of action, allowing any Supply Chain Impacted Party harmed by the Licensee to take legal action against the Licensee in accordance with applicable negligence laws, whether they be in tort law, delict law, and/or similar bodies of law closely related to tort and/or delict law, regardless if Licensee is directly responsible for the harms suffered by a Supply Chain Impacted Party. Nothing in this section shall be interpreted to include acts committed by individuals outside of the scope of his/her/their employment.
+
+[5.](#5) **NOTICE:** _This section explains when a Licensee must notify others of the License._
+
+[5.1.](#5.1) _Distribution of Notice_: Licensee must ensure that everyone who receives a copy of or uses any part of Software from Licensee, with or without changes, also receives the License and the copyright notice included with Software (and if included by the Licensor, patent, trademark, and attribution notice). Licensee must ensure that License is prominently displayed so that any individual or entity seeking to download, copy, use, or otherwise receive any part of Software from Licensee is notified of this License and its terms and conditions. Licensee must cause any modified versions of the Software to carry prominent notices stating that Licensee changed the Software.
+
+[5.2.](#5.2)  _Modified Software_: Licensee is free to create modifications of the Software and distribute only the modified portion created by Licensee, however, any derivative work stemming from the Software or its code must be distributed pursuant to this License, including this Notice provision.
+
+[5.3.](#5.3)  _Recipients as Licensees_: Any individual or entity that uses, copies, modifies, reproduces, distributes, or prepares derivative work based upon the Software, all or part of the Software’s code, or a derivative work developed by using the Software, including a portion of its code, is a Licensee as defined above and is subject to the terms and conditions of this License.
+
+**[6.](#6) REPRESENTATIONS AND WARRANTIES:**
+
+[6.1.](#6.1) _Disclaimer of Warranty_: TO THE FULL EXTENT ALLOWED BY LAW, THIS SOFTWARE COMES “AS IS,” WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, AND LICENSOR SHALL NOT BE LIABLE TO ANY PERSON OR ENTITY FOR ANY DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THIS LICENSE, UNDER ANY LEGAL CLAIM.
+
+[6.2.](#6.2) _Limitation of Liability_: LICENSEE SHALL HOLD LICENSOR HARMLESS AGAINST ANY AND ALL CLAIMS, DEBTS, DUES, LIABILITIES, LIENS, CAUSES OF ACTION, DEMANDS, OBLIGATIONS, DISPUTES, DAMAGES, LOSSES, EXPENSES, ATTORNEYS’ FEES, COSTS, LIABILITIES, AND ALL OTHER CLAIMS OF EVERY KIND AND NATURE WHATSOEVER, WHETHER KNOWN OR UNKNOWN, ANTICIPATED OR UNANTICIPATED, FORESEEN OR UNFORESEEN, ACCRUED OR UNACCRUED, DISCLOSED OR UNDISCLOSED, ARISING OUT OF OR RELATING TO LICENSEE’S USE OF THE SOFTWARE. NOTHING IN THIS SECTION SHOULD BE INTERPRETED TO REQUIRE LICENSEE TO INDEMNIFY LICENSOR, NOR REQUIRE LICENSOR TO INDEMNIFY LICENSEE.
+
+**[7.](#7) TERMINATION**
+
+[7.1.](#7.1) _Violations of Ethical Standards or Breaching Duty of Care_: If Licensee violates the Ethical Standards section or Licensee, or any other person or entity within the Supply Chain prior to a good or service reaching the Licensee, breaches its Duty of Care to Supply Chain Impacted Parties, Licensee must remedy the violation or harm caused by Licensee within 30 days of being notified of the violation or harm. If Licensee fails to remedy the violation or harm within 30 days, all rights in the Software granted to Licensee by License will be null and void as between Licensor and Licensee.
+
+[7.2.](#7.2) _Failure of Notice_: If any person or entity notifies Licensee in writing that Licensee has not complied with the Notice section of this License, Licensee can keep this License by taking all practical steps to comply within 30 days after the notice of noncompliance. If Licensee does not do so, Licensee’s License (and all rights licensed hereunder) will end immediately.
+
+[7.3.](#7.3) _Judicial Findings_: In the event Licensee is found by a civil, criminal, administrative, or other court of competent jurisdiction, or some other adjudicating body with legal authority, to have committed actions which are in violation of the Ethical Standards or Supply Chain Impacted Party sections of this License, all rights granted to Licensee by this License will terminate immediately.
+
+[7.4.](#7.4) _Patent Litigation_: If Licensee institutes patent litigation against any entity (including a cross-claim or counterclaim in a suit) alleging that the Software, all or part of the Software’s code, or a derivative work developed using the Software, including a portion of its code, constitutes direct or contributory patent infringement, then any patent license, along with all other rights, granted to Licensee under this License will terminate as of the date such litigation is filed.
+
+[7.5.](#7.5) _Additional Remedies_: Termination of the License by failing to remedy harms in no way prevents Licensor or Supply Chain Impacted Party from seeking appropriate remedies at law or in equity.
+
+**[8.](#8) MISCELLANEOUS:**
+
+[8.1.](#8.1) _Conditions_: Sections 3, 4.1, 5.1, 5.2, 7.1, 7.2, 7.3, and 7.4 are conditions of the rights granted to Licensee in the License.
+
+[8.2.](#8.2) _Equitable Relief_: Licensor and any Supply Chain Impacted Party shall be entitled to equitable relief, including injunctive relief or specific performance of the terms hereof, in addition to any other remedy to which they are entitled at law or in equity.
+
+[8.3.](#8.3) _Severability_: If any term or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, any such determination of invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction. If the determination of invalidity, illegality, or unenforceability by a court of competent jurisdiction pertains to the terms or provisions contained in the Ethical Standards section of this License, all rights in the Software granted to Licensee shall be deemed null and void as between Licensor and Licensee.
+
+[8.4.](#8.4) _Section Titles_: Section titles are solely written for organizational purposes and should not be used to interpret the language within each section.
+
+[8.5.](#8.5) _Citations_: Citations are solely written to provide context for the source of the provisions in the Ethical Standards.
+
+[8.6.](#8.6) _Section Summaries_: Some sections have a brief _italicized description_ which is provided for the sole purpose of briefly describing the section and should not be used to interpret the terms of the License.
+
+[8.7.](#8.7) _Entire License_: This is the entire License between the Licensor and Licensee with respect to the claims released herein and that the consideration stated herein is the only consideration or compensation to be paid or exchanged between them for this License. This License cannot be modified or amended except in a writing signed by Licensor and Licensee.
+
+[8.8.](#8.8) _Successors and Assigns_: This License shall be binding upon and inure to the benefit of the Licensor’s and Licensee’s respective heirs, successors, and assigns.
